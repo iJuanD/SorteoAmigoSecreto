@@ -8,18 +8,20 @@ Este proyecto es ideal para aprender conceptos básicos de desarrollo web, como 
 - **HTML5**: Estructura de la interfaz de usuario.
 - **CSS3**: Estilización y diseño responsivo, con variables CSS para personalización.
 - **JavaScript**: Lógica del sorteo, manipulación del DOM y validaciones.
-- **Fuentes**: Google Fonts (Inter y Merriweather) para un diseño tipográfico elegante.
+- **Fuentes**: Google Fonts para un diseño tipográfico elegante.
 
 
 ## Instalación
 
 1. Solo dlona el repositorio y listo ya podras interactuar con el proyecto:
    ```bash
-   git clone https://github.com/[tu-usuario]/SorteoAmigoSecreto.git
+   git clone https://github.com/iJuanD/SorteoAmigoSecreto.git
 
 Puedes usar un servidor local (como Live Server en VS Code) o simplemente abrir el archivo directamente.
 
+
 # Estructura del proyecto
+
 SorteoAmigoSecreto/
 ├── assets/
 │   ├── AmigoSecreto.png
@@ -29,3 +31,14 @@ SorteoAmigoSecreto/
 ├── style.css                       # Estilos CSS
 ├── app.js                          # Lógica en JavaScript
 ├── README.md                       # Documentación del proyecto
+
+# Capturas de pantalla
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/009b83b6-af2e-4bdb-8da3-fc655235f1c2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9c517e2-984d-457e-949c-dd9182cc90c2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5b921a1a-ed91-44e0-89e7-550d92ccf917" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bce71d54-2b11-4c90-b5c4-25931de8f0e2" />
+
+
+## Licencia
+Este proyecto se realizo para completar un Challenge. Siéntete libre de usarlo y modificarlo según tus necesidades.
